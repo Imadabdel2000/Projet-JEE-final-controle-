@@ -23,15 +23,19 @@
 # III- CAPTURES DE L'EXECUTION
 <p align="center">
   
-![1](https://user-images.githubusercontent.com/77898496/214628076-7e8ab0b2-944e-487d-a889-c2656167a5fc.png)
+<img width="889" alt="1" src="https://user-images.githubusercontent.com/66911835/219956879-4d8da280-90d3-41f8-aa43-3a919d2098b8.PNG">
 
-![2](https://user-images.githubusercontent.com/77898496/214628498-81774590-5f1d-4318-aece-09dc70f04c2c.png)
+<img width="835" alt="2" src="https://user-images.githubusercontent.com/66911835/219956967-7f6feaf2-c2fb-4dcc-970f-f528bf9690e6.PNG">
 
-![3](https://user-images.githubusercontent.com/77898496/214628654-7b9710d9-ff7f-4310-acce-2fe9d85b347c.png)
+
+<img width="832" alt="3" src="https://user-images.githubusercontent.com/66911835/219957038-664a8084-7c21-4614-bda0-5249233cf336.PNG">
+
+
 
 ### les données ont été ajouté apres avoir été consommé du topic R1 de kafka
 
-![4](https://user-images.githubusercontent.com/77898496/214628717-61b44ed2-9b40-4411-8bbd-0283da6612e8.png)
+
+<img width="904" alt="4" src="https://user-images.githubusercontent.com/66911835/219957162-3fb263d7-35c7-48a5-aad5-8617ad58f27b.PNG">
 
 ![5](https://user-images.githubusercontent.com/77898496/214628751-5825cb76-bfa9-42fa-a7ef-472ec6dcd7c5.png)
 ### visualisation des données des factures produites dans le topic R1 et qui ont été consommé par le billing service 
@@ -48,15 +52,18 @@ D:\5IIR\J2EE\TPS\TP5\kafka_2.13-3.3.1\bin>``start windows\kafka-console-producer
 
 # IV. BONUS  : (Personnalisation du theme de la page de login keycloak) <br>
 
-![3](https://user-images.githubusercontent.com/77898496/209239041-9859be51-427a-4e2f-af2e-d99c8d6884fe.png)
+
+<img width="765" alt="7" src="https://user-images.githubusercontent.com/66911835/219957446-4efe0318-11e3-4352-8eac-451c4722b876.PNG">
 
 # V. Taches : 
+
 
 - [x] Customer Service
 - [x] Inventory Service
 - [x] Gateway Service
 - [x] Eureka Discovery
-- [x] Billing Service
+- [x] Billing Service![Uploading 6.png…]()
+
 - [x] Angular Service
 - [x] Securiser Services Avec Keycloak
 - [x] Intégration du broker kafka
